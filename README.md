@@ -57,7 +57,6 @@ cross-model-ascii-comparison/
 │
 ├── updated_AHEAD_model_comparison.py
 ├── gate_analysis.py
-├── outputs/
 │
 └── .gitignore
 ```
