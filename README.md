@@ -57,13 +57,6 @@ cross-model-ascii-comparison/
 │
 ├── updated_AHEAD_model_comparison.py
 ├── gate_analysis.py
-│
-├── ASCII_Log_AHEAD_10_11_25_dorado_fast.log
-├── ASCII_Log_AHEAD_10_11_25_dorado_hac.log
-├── ASCII_Log_AHEAD_10_11_25_dorado_sup.log
-├── ASCII_Log_AHEAD_10_11_25_guppy_hac.log
-├── ASCII_Log_AHEAD_10_11_25_deepmod2.log
-│
 ├── outputs/
 │
 └── .gitignore
